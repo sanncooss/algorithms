@@ -5543,15 +5543,15 @@
 //   }
 // }
 
-class Solution {
-  int age;
-  int name;
-  Solution({
-    required this.age,
-    required this.name,
-  });
+// class Solution {
+//   int age;
+//   int name;
+//   Solution({
+//     required this.age,
+//     required this.name,
+//   });
 
-  void introduce() {
-    print('My name is $name and my');
-  }
-}
+//   void introduce() {
+//     print('My name is $name and my');
+//   }
+// }
