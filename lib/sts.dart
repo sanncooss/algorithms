@@ -5543,10 +5543,6 @@
 //   }
 // }
 
-void main(List<String> args) {
-  final s
-}
-
 class Solution {
   int age;
   int name;
@@ -5556,6 +5552,6 @@ class Solution {
   });
 
   void introduce() {
-    print('My name is $name and my age $age');
+    print('My name is $name and my ');
   }
 }
